@@ -1,0 +1,5 @@
+#!/bin/bash
+set -Eeuo pipefail
+source env/bin/activate
+nohup python3 interface.py > logs/interface.txt 2>&1 &
+exit 0

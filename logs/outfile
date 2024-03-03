@@ -1,0 +1,231 @@
+0it [00:00, ?it/s][Parallel(n_jobs=5)]: Using backend LokyBackend with 5 concurrent workers.
+training on hyperparamset (ngram_range, max_df, min_df, max_features, hidden_layer_sizes, learning_rate, alpha) : ((1, 1), 0.8, 0, None, [100, 50], 0.01, 0.001)
+[Parallel(n_jobs=5)]: Done   2 out of   5 | elapsed:  1.6min remaining:  2.5min
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed:  1.8min remaining:    0.0s
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed:  1.8min finished
+1it [01:46, 106.35s/it][Parallel(n_jobs=5)]: Using backend LokyBackend with 5 concurrent workers.
+[Parallel(n_jobs=5)]: Done   2 out of   5 | elapsed:  1.0min remaining:  1.6min
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed:  1.1min remaining:    0.0s
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed:  1.1min finished
+2it [02:50, 81.78s/it] [Parallel(n_jobs=5)]: Using backend LokyBackend with 5 concurrent workers.
+[Parallel(n_jobs=5)]: Done   2 out of   5 | elapsed:  5.3min remaining:  7.9min
+/home/trisbc/anaconda3/lib/python3.9/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/trisbc/anaconda3/lib/python3.9/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed:  7.0min remaining:    0.0s
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed:  7.0min finished
+3it [09:51, 236.40s/it][Parallel(n_jobs=5)]: Using backend LokyBackend with 5 concurrent workers.
+[Parallel(n_jobs=5)]: Done   2 out of   5 | elapsed:  5.3min remaining:  7.9min
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed:  5.8min remaining:    0.0s
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed:  5.8min finished
+4it [15:38, 280.29s/it][Parallel(n_jobs=5)]: Using backend LokyBackend with 5 concurrent workers.
+[Parallel(n_jobs=5)]: Done   2 out of   5 | elapsed:  7.0min remaining: 10.5min
+/home/trisbc/anaconda3/lib/python3.9/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed:  7.7min remaining:    0.0s
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed:  7.7min finished
+5it [23:18, 345.05s/it][Parallel(n_jobs=5)]: Using backend LokyBackend with 5 concurrent workers.
+/home/trisbc/anaconda3/lib/python3.9/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/trisbc/anaconda3/lib/python3.9/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+[Parallel(n_jobs=5)]: Done   2 out of   5 | elapsed:  8.3min remaining: 12.4min
+/home/trisbc/anaconda3/lib/python3.9/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/trisbc/anaconda3/lib/python3.9/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/trisbc/anaconda3/lib/python3.9/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed:  8.3min remaining:    0.0s
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed:  8.3min finished
+6it [31:37, 397.20s/it][Parallel(n_jobs=5)]: Using backend LokyBackend with 5 concurrent workers.
+[Parallel(n_jobs=5)]: Done   2 out of   5 | elapsed:   38.7s remaining:   58.0s
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed:   48.5s remaining:    0.0s
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed:   48.5s finished
+7it [32:25, 283.26s/it][Parallel(n_jobs=5)]: Using backend LokyBackend with 5 concurrent workers.
+[Parallel(n_jobs=5)]: Done   2 out of   5 | elapsed:  1.0min remaining:  1.5min
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed:  1.1min remaining:    0.0s
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed:  1.1min finished
+8it [33:33, 214.65s/it][Parallel(n_jobs=5)]: Using backend LokyBackend with 5 concurrent workers.
+[Parallel(n_jobs=5)]: Done   2 out of   5 | elapsed:  2.4min remaining:  3.5min
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed:  2.9min remaining:    0.0s
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed:  2.9min finished
+9it [36:26, 201.56s/it][Parallel(n_jobs=5)]: Using backend LokyBackend with 5 concurrent workers.
+[Parallel(n_jobs=5)]: Done   2 out of   5 | elapsed:  3.3min remaining:  5.0min
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed:  3.6min remaining:    0.0s
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed:  3.6min finished
+10it [40:00, 205.42s/it][Parallel(n_jobs=5)]: Using backend LokyBackend with 5 concurrent workers.
+[Parallel(n_jobs=5)]: Done   2 out of   5 | elapsed:  2.7min remaining:  4.0min
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed:  3.1min remaining:    0.0s
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed:  3.1min finished
+11it [43:05, 199.22s/it][Parallel(n_jobs=5)]: Using backend LokyBackend with 5 concurrent workers.
+[Parallel(n_jobs=5)]: Done   2 out of   5 | elapsed:  4.2min remaining:  6.2min
+/home/trisbc/anaconda3/lib/python3.9/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/trisbc/anaconda3/lib/python3.9/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/trisbc/anaconda3/lib/python3.9/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed:  4.3min remaining:    0.0s
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed:  4.3min finished
+12it [47:26, 217.83s/it][Parallel(n_jobs=5)]: Using backend LokyBackend with 5 concurrent workers.
+[Parallel(n_jobs=5)]: Done   2 out of   5 | elapsed:  5.7min remaining:  8.6min
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed:  6.0min remaining:    0.0s
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed:  6.0min finished
+13it [53:28, 261.49s/it][Parallel(n_jobs=5)]: Using backend LokyBackend with 5 concurrent workers.
+[Parallel(n_jobs=5)]: Done   2 out of   5 | elapsed:  6.7min remaining: 10.1min
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed:  8.5min remaining:    0.0s
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed:  8.5min finished
+14it [1:01:59, 337.03s/it][Parallel(n_jobs=5)]: Using backend LokyBackend with 5 concurrent workers.
+[Parallel(n_jobs=5)]: Done   2 out of   5 | elapsed: 27.6min remaining: 41.3min
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed: 29.8min remaining:    0.0s
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed: 29.8min finished
+15it [1:31:49, 775.09s/it][Parallel(n_jobs=5)]: Using backend LokyBackend with 5 concurrent workers.
+[Parallel(n_jobs=5)]: Done   2 out of   5 | elapsed: 20.8min remaining: 31.2min
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed: 23.2min remaining:    0.0s
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed: 23.2min finished
+16it [1:55:00, 960.31s/it][Parallel(n_jobs=5)]: Using backend LokyBackend with 5 concurrent workers.
+[Parallel(n_jobs=5)]: Done   2 out of   5 | elapsed: 27.0min remaining: 40.5min
+[CV] END .................................................... total time= 1.7min
+[CV] END .................................................... total time= 1.1min
+[CV] END .................................................... total time= 7.0min
+[CV] END .................................................... total time= 5.7min
+[CV] END .................................................... total time= 7.6min
+[CV] END .................................................... total time= 8.3min
+[CV] END .................................................... total time=  36.3s
+[CV] END .................................................... total time= 1.1min
+[CV] END .................................................... total time= 2.4min
+[CV] END .................................................... total time= 3.3min
+[CV] END .................................................... total time= 3.0min
+[CV] END .................................................... total time= 4.3min
+[CV] END .................................................... total time= 5.8min
+[CV] END .................................................... total time= 8.5min
+[CV] END .................................................... total time=28.1min
+[CV] END .................................................... total time=19.9min
+[CV] END .................................................... total time=24.4min
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed: 31.0min remaining:    0.0s
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed: 31.0min finished
+17it [2:25:58, 1230.30s/it][Parallel(n_jobs=5)]: Using backend LokyBackend with 5 concurrent workers.
+accuracy: 0.13320413436692508, f1 macro: 0.09714963425937626, fit time: 97.63852047920227
+training on hyperparamset (ngram_range, max_df, min_df, max_features, hidden_layer_sizes, learning_rate, alpha) : ((1, 1), 0.8, 0, None, [100, 50], 0.01, 0.01)
+accuracy: 0.13617571059431527, f1 macro: 0.10268196187937435, fit time: 62.697902250289914
+training on hyperparamset (ngram_range, max_df, min_df, max_features, hidden_layer_sizes, learning_rate, alpha) : ((1, 1), 0.8, 0, None, [100, 50], 0.01, 0.1)
+accuracy: 0.14728682170542634, f1 macro: 0.10423585314177823, fit time: 372.44880719184874
+training on hyperparamset (ngram_range, max_df, min_df, max_features, hidden_layer_sizes, learning_rate, alpha) : ((1, 1), 0.8, 0, None, [100, 50], 0.001, 0.001)
+accuracy: 0.13281653746770025, f1 macro: 0.09923074397395579, fit time: 320.41772055625916
+training on hyperparamset (ngram_range, max_df, min_df, max_features, hidden_layer_sizes, learning_rate, alpha) : ((1, 1), 0.8, 0, None, [100, 50], 0.001, 0.01)
+accuracy: 0.14560723514211887, f1 macro: 0.11183146034574513, fit time: 441.07323904037474
+training on hyperparamset (ngram_range, max_df, min_df, max_features, hidden_layer_sizes, learning_rate, alpha) : ((1, 1), 0.8, 0, None, [100, 50], 0.001, 0.1)
+accuracy: 0.13488372093023254, f1 macro: 0.10057786003597269, fit time: 497.09911766052244
+training on hyperparamset (ngram_range, max_df, min_df, max_features, hidden_layer_sizes, learning_rate, alpha) : ((1, 1), 0.8, 0, None, [50, 50, 50], 0.01, 0.001)
+accuracy: 0.08294573643410853, f1 macro: 0.05912058750225076, fit time: 40.1592013835907
+training on hyperparamset (ngram_range, max_df, min_df, max_features, hidden_layer_sizes, learning_rate, alpha) : ((1, 1), 0.8, 0, None, [50, 50, 50], 0.01, 0.01)
+accuracy: 0.07868217054263565, f1 macro: 0.05712087772933856, fit time: 63.81879544258118
+training on hyperparamset (ngram_range, max_df, min_df, max_features, hidden_layer_sizes, learning_rate, alpha) : ((1, 1), 0.8, 0, None, [50, 50, 50], 0.01, 0.1)
+accuracy: 0.06408268733850128, f1 macro: 0.04498163184997427, fit time: 145.86953268051147
+training on hyperparamset (ngram_range, max_df, min_df, max_features, hidden_layer_sizes, learning_rate, alpha) : ((1, 1), 0.8, 0, None, [50, 50, 50], 0.001, 0.001)
+accuracy: 0.04935400516795865, f1 macro: 0.03455944030246528, fit time: 198.81099333763123
+training on hyperparamset (ngram_range, max_df, min_df, max_features, hidden_layer_sizes, learning_rate, alpha) : ((1, 1), 0.8, 0, None, [50, 50, 50], 0.001, 0.01)
+accuracy: 0.05051679586563307, f1 macro: 0.037119760681291136, fit time: 169.69273595809938
+training on hyperparamset (ngram_range, max_df, min_df, max_features, hidden_layer_sizes, learning_rate, alpha) : ((1, 1), 0.8, 0, None, [50, 50, 50], 0.001, 0.1)
+accuracy: 0.029198966408268728, f1 macro: 0.02128316064503469, fit time: 252.90315437316895
+training on hyperparamset (ngram_range, max_df, min_df, max_features, hidden_layer_sizes, learning_rate, alpha) : ((1, 1), 0.8, 0, None, [400, 50], 0.01, 0.001)
+accuracy: 0.14056847545219636, f1 macro: 0.10657999648827624, fit time: 344.27680406570437
+training on hyperparamset (ngram_range, max_df, min_df, max_features, hidden_layer_sizes, learning_rate, alpha) : ((1, 1), 0.8, 0, None, [400, 50], 0.01, 0.01)
+accuracy: 0.14715762273901808, f1 macro: 0.10922642549808159, fit time: 443.81629877090455
+training on hyperparamset (ngram_range, max_df, min_df, max_features, hidden_layer_sizes, learning_rate, alpha) : ((1, 1), 0.8, 0, None, [400, 50], 0.01, 0.1)
+accuracy: 0.14767441860465116, f1 macro: 0.10788775736595221, fit time: 1700.695815181732
+training on hyperparamset (ngram_range, max_df, min_df, max_features, hidden_layer_sizes, learning_rate, alpha) : ((1, 1), 0.8, 0, None, [400, 50], 0.001, 0.001)
+accuracy: 0.1525839793281654, f1 macro: 0.11455560858116384, fit time: 1303.3356964111329
+training on hyperparamset (ngram_range, max_df, min_df, max_features, hidden_layer_sizes, learning_rate, alpha) : ((1, 1), 0.8, 0, None, [400, 50], 0.001, 0.01)
+accuracy: 0.1612403100775194, f1 macro: 0.12351309649639905, fit time: 1690.048903799057
+training on hyperparamset (ngram_range, max_df, min_df, max_features, hidden_layer_sizes, learning_rate, alpha) : ((1, 1), 0.8, 0, None, [400, 50], 0.001, 0.1)
+/home/trisbc/anaconda3/lib/python3.9/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/trisbc/anaconda3/lib/python3.9/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+[Parallel(n_jobs=5)]: Done   2 out of   5 | elapsed: 37.4min remaining: 56.2min
+/home/trisbc/anaconda3/lib/python3.9/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/trisbc/anaconda3/lib/python3.9/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/home/trisbc/anaconda3/lib/python3.9/site-packages/sklearn/neural_network/_multilayer_perceptron.py:692: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (200) reached and the optimization hasn't converged yet.
+  warnings.warn(
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed: 37.6min remaining:    0.0s
+[Parallel(n_jobs=5)]: Done   5 out of   5 | elapsed: 37.6min finished
+18it [3:03:34, 1538.37s/it]18it [3:03:34, 611.89s/it] 
+accuracy: 0.14069767441860465, f1 macro: 0.10314347069639244, fit time: 2249.104260015488
+[CV] END .................................................... total time= 1.7min
+[CV] END .................................................... total time= 1.0min
+[CV] END .................................................... total time= 7.0min
+[CV] END .................................................... total time= 4.4min
+[CV] END .................................................... total time= 7.0min
+[CV] END .................................................... total time= 8.2min
+[CV] END .................................................... total time=  38.7s
+[CV] END .................................................... total time= 1.0min
+[CV] END .................................................... total time= 2.4min
+[CV] END .................................................... total time= 3.4min
+[CV] END .................................................... total time= 2.6min
+[CV] END .................................................... total time= 4.3min
+[CV] END .................................................... total time= 5.7min
+[CV] END .................................................... total time= 6.7min
+[CV] END .................................................... total time=27.6min
+[CV] END .................................................... total time=21.7min
+[CV] END .................................................... total time=28.5min
+[CV] END .................................................... total time=37.4min
+[CV] END .................................................... total time= 1.5min
+[CV] END .................................................... total time= 1.0min
+[CV] END .................................................... total time= 6.8min
+[CV] END .................................................... total time= 5.3min
+[CV] END .................................................... total time= 7.0min
+[CV] END .................................................... total time= 8.3min
+[CV] END .................................................... total time=  48.5s
+[CV] END .................................................... total time= 1.1min
+[CV] END .................................................... total time= 2.9min
+[CV] END .................................................... total time= 3.6min
+[CV] END .................................................... total time= 2.7min
+[CV] END .................................................... total time= 4.3min
+[CV] END .................................................... total time= 6.0min
+[CV] END .................................................... total time= 6.5min
+[CV] END .................................................... total time=29.2min
+[CV] END .................................................... total time=20.8min
+[CV] END .................................................... total time=30.0min
+[CV] END .................................................... total time=37.4min
+[CV] END .................................................... total time= 1.6min
+[CV] END .................................................... total time= 1.0min
+[CV] END .................................................... total time= 5.3min
+[CV] END .................................................... total time= 5.8min
+[CV] END .................................................... total time= 7.7min
+[CV] END .................................................... total time= 8.3min
+[CV] END .................................................... total time=  38.7s
+[CV] END .................................................... total time= 1.1min
+[CV] END .................................................... total time= 2.4min
+[CV] END .................................................... total time= 3.0min
+[CV] END .................................................... total time= 2.8min
+[CV] END .................................................... total time= 3.9min
+[CV] END .................................................... total time= 5.4min
+[CV] END .................................................... total time= 6.8min
+[CV] END .................................................... total time=27.0min
+[CV] END .................................................... total time=23.0min
+[CV] END .................................................... total time=27.0min
+[CV] END .................................................... total time=37.6min
+[CV] END .................................................... total time= 1.6min
+[CV] END .................................................... total time= 1.0min
+[CV] END .................................................... total time= 5.0min
+[CV] END .................................................... total time= 5.5min
+[CV] END .................................................... total time= 7.6min
+[CV] END .................................................... total time= 8.3min
+[CV] END .................................................... total time=  38.6s
+[CV] END .................................................... total time= 1.0min
+[CV] END .................................................... total time= 2.2min
+[CV] END .................................................... total time= 3.3min
+[CV] END .................................................... total time= 3.1min
+[CV] END .................................................... total time= 4.2min
+[CV] END .................................................... total time= 5.7min
+[CV] END .................................................... total time= 8.4min
+[CV] END .................................................... total time=29.8min
+[CV] END .................................................... total time=23.2min
+[CV] END .................................................... total time=31.0min
+[CV] END .................................................... total time=37.5min
+[CV] END .................................................... total time=37.5min

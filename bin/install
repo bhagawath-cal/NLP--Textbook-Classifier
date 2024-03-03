@@ -1,0 +1,11 @@
+#!/bin/bash
+# install NLP Helper
+set -Eeuo pipefail
+echo "+ xargs sudo apt-get install < install/reqs.sys"
+xargs sudo apt-get install -y < install/reqs.sys
+echo "+ python3 -m venv env"
+python3 -m venv env
+echo "+ source env/bin/activate"
+source env/bin/activate
+echo "+ pip install -r install/requirements.txt"
+pip install -r install/requirements.txt
